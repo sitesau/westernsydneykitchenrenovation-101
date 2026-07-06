@@ -1,0 +1,22 @@
+{
+  "wheel_id": 115,
+  "slug": "westernsydneykitchenrenovation-101",
+  "project": "western-sydney-kitchen-renovation-comparison-w-101",
+  "parent_t1_ref": "westernsydneykitchenrenovation-001",
+  "node_role": "feeder",
+  "money_target": "westernsydneykitchenrenovation.com.au",
+  "primary_kw": "western sydney kitchen renovation comparison",
+  "intended_url": "https://aumedia.neocities.org/western-sydney-kitchen-renovation-comparison-w-101/index.html",
+  "links": [
+    {
+      "target_url": "https://western-sydney-kitchen-renovat-hu9ss.ondigitalocean.app/",
+      "anchor": "western sydney kitchen renovation",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://western-sydney-kitchen-renovat-hu9ss.ondigitalocean.app/",
+      "anchor": "western sydney kitchen renovation",
+      "rel": "follow"
+    }
+  ]
+}
